@@ -1,0 +1,8 @@
+Author: Zih-Yu Hsieh (Bryan Wriggler)
+
+Initial thought: 
+* let the program access a camera, and be able to read the inputs (the image from the camera)
+* let the program detect a specific object first (like a sticker, or something simple) and detect its distance away from the camera
+* Use OpenCV in the project is the goal
+
+Advanced feature: after creating the basic features (and they worked), can try to make it into an application
